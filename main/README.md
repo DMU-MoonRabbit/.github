@@ -16,10 +16,16 @@
 ## 1-4. 페르소나
 ![달토끼_6](https://github.com/user-attachments/assets/2312166c-afe4-44b1-a4c8-8301d2306c4f)
 
+## 1-5. 솔루션
+![달토끼_7](https://github.com/user-attachments/assets/36feaa53-c7ba-4e89-928f-3df76a17e293)
+
+## 1-6. 디자인 가이드
+![달토끼_8](https://github.com/user-attachments/assets/02b9c4c3-b08c-42d4-94de-f386c3149122)
+
 # 2. 프로젝트 구성
 
 ## 2-1. 시스템 구성도
-![image](https://github.com/user-attachments/assets/3a7dca47-ca1c-46de-9b28-8b10d40f142c)
+![image](https://github.com/user-attachments/assets/83e71f45-d8f9-469b-a7d9-0d61737fe2a7)
 
 ## 2-2. ERD (User)
 ![image](https://github.com/user-attachments/assets/c0eefc3d-ff8d-4281-a088-db87b2a2d545)
@@ -46,6 +52,7 @@
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 자료
+[달토끼 1차 발표 pptx](https://github.com/user-attachments/files/20680874/MoonRabbit.pptx)
 
 ## 3-2. 시연 영상
 [![달토끼 시연영상](https://img.youtube.com/vi/V1JnOPhk9ZY/0.jpg)](https://www.youtube.com/watch?v=V1JnOPhk9ZY)
