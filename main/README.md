@@ -48,3 +48,4 @@
 ## 3-1. 발표 자료
 
 ## 3-2. 시연 영상
+[![달토끼 시연영상](https://img.youtube.com/vi/V1JnOPhk9ZY/0.jpg)](https://www.youtube.com/watch?v=V1JnOPhk9ZY)
