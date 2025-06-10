@@ -49,6 +49,8 @@
 ### 기타
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>  
 
+## 2-5. 협업 문서화는 이렇게 진행했어요
+[배포용 노션](https://perfect-bluebell-116.notion.site/20ed9e93521a8072841ddea8c639f8cc)
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 자료
