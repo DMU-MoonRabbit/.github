@@ -58,6 +58,3 @@
 
 ## 3-2. 시연 영상
 [![달토끼 시연영상](https://img.youtube.com/vi/V1JnOPhk9ZY/0.jpg)](https://www.youtube.com/watch?v=V1JnOPhk9ZY)
-
-## 3-3. 배포 주소
-[달토끼 웹페이지](moonrabbit-web.kro.kr/)
