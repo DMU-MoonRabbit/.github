@@ -5,19 +5,22 @@
 ![달토끼_2](https://github.com/user-attachments/assets/b2369cfb-5a45-43ca-b513-bdd865be2268)
 
 ## 1-1. 프로젝트 개요
-![달토끼_3](https://github.com/user-attachments/assets/0fd2d9ff-3c61-47fc-8ad5-524ebf86f154)
+<img width="1920" height="1080" alt="02_Overview" src="https://github.com/user-attachments/assets/34014d92-10c6-4536-bf97-ee849ebfac86" />
 
-## 1-2. 메인 기능 & 프로젝트 목표
-![달토끼_4](https://github.com/user-attachments/assets/a2dc5574-494b-4765-a231-3419aba466a6)
+## 1-2. 배경 조사
+<img width="1920" height="1080" alt="03_Background" src="https://github.com/user-attachments/assets/ed23f2f5-b766-43f9-b04e-8d81486b29b6" />
 
-## 1-3. 문제 해결
-![달토끼_5](https://github.com/user-attachments/assets/67c561ae-73cf-4206-8f2a-623c9c5c892b)
+## 1-3. 설문 조사
+<img width="1920" height="1080" alt="04_Survey" src="https://github.com/user-attachments/assets/5b802b7d-7d05-46ab-8c60-cf54c637342d" />
 
-## 1-4. 페르소나
-![달토끼_6](https://github.com/user-attachments/assets/2312166c-afe4-44b1-a4c8-8301d2306c4f)
+## 1-4. HMW
+<img width="1920" height="1080" alt="05_HMW" src="https://github.com/user-attachments/assets/bb3f6234-e73d-48fa-8296-750818d7ab5e" />
+
+## 1-5. 페르소나
+<img width="1920" height="1080" alt="Journey Map" src="https://github.com/user-attachments/assets/0f087bca-e0c2-44ff-82bf-e95930a05bbe" />
 
 ## 1-5. 솔루션
-![달토끼_7](https://github.com/user-attachments/assets/36feaa53-c7ba-4e89-928f-3df76a17e293)
+<img width="1920" height="1080" alt="07_MVP Goal" src="https://github.com/user-attachments/assets/0a46f4a3-3b9d-4ce3-8eb1-b4fa35a623fc" />
 
 ## 1-6. 디자인 가이드
 ![달토끼_8](https://github.com/user-attachments/assets/02b9c4c3-b08c-42d4-94de-f386c3149122)
@@ -25,7 +28,7 @@
 # 2. 프로젝트 구성
 
 ## 2-1. 시스템 구성도
-![image](https://github.com/user-attachments/assets/83e71f45-d8f9-469b-a7d9-0d61737fe2a7)
+<img width="1920" height="1080" alt="09_시스템 아키텍처" src="https://github.com/user-attachments/assets/2941a9e7-a41b-4e2e-ad60-853bff8b2072" />
 
 ## 2-2. ERD (User)
 ![image](https://github.com/user-attachments/assets/c0eefc3d-ff8d-4281-a088-db87b2a2d545)
@@ -33,7 +36,11 @@
 ## 2-3. 와이어 프레임
 ![image](https://github.com/user-attachments/assets/86491a6a-0e71-4df1-813b-b7a10baff90a)
 
-## 2-4. 사용 기술 & 툴
+## 2-4 기능 상세 소개
+<img width="1920" height="1080" alt="10_기능 상세 소개" src="https://github.com/user-attachments/assets/ed9d82d6-aa14-468b-8065-44d52b03d8b6" />
+<img width="1920" height="1080" alt="11_기능 상세 소개" src="https://github.com/user-attachments/assets/3263d9b4-0e60-49a1-b620-af3cc301849d" />
+
+## 2-5. 사용 기술 & 툴
 ### Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
@@ -49,15 +56,19 @@
 ### 기타
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>  
 
-## 2-5. 협업 문서화는 이렇게 진행했어요
+## 2-6. 협업 문서화는 이렇게 진행했어요
 [배포용 노션](https://perfect-bluebell-116.notion.site/20ed9e93521a8072841ddea8c639f8cc)
+
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 자료
-[달토끼 1차 발표 pptx](https://github.com/user-attachments/files/20680874/MoonRabbit.pptx)
+[달토끼 1차 발표 pptx](https://github.com/user-attachments/files/20680874/MoonRabbit.pptx)  
+
+[달토끼 2차 발표 pdf](https://github.com/user-attachments/files/23616150/default.pdf)
+
 
 ## 3-2. 시연 영상
-[![달토끼 시연영상](https://img.youtube.com/vi/V1JnOPhk9ZY/0.jpg)](https://www.youtube.com/watch?v=V1JnOPhk9ZY)
+![달토끼 시연영상](https://www.youtube.com/watch?v=oRM95h0XHTE)
 
 ## 3-3. 팀 소개
 | **분야** | **이름** | **포지션** |
