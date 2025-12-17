@@ -68,9 +68,12 @@
 
 
 ## 3-2. 시연 영상
-![달토끼 시연영상](https://www.youtube.com/watch?v=oRM95h0XHTE)
+[달토끼 시연영상](https://www.youtube.com/watch?v=oRM95h0XHTE)
 
-## 3-3. 팀 소개
+## 3-3. 졸업 논문
+[달토끼 졸업 논문](https://github.com/user-attachments/files/24205389/20251217_.pdf)
+
+## 3-4. 팀 소개
 | **분야** | **이름** | **포지션** |
 | --- | --- | --- |
 | PM | <a href="https://github.com/dohy-eon">최도현</a>  | **프론트엔드 리드**, 프론트 인프라 구축 & 서버 연동 및 배포, 화면 UI 구현, <br> UI/UX, GUI 디자인, 백엔드 서버 연동 및 배포, API 및 DB 구축 |
